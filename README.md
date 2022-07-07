@@ -1,2 +1,2 @@
 # sample-repo
-training
+updated
